@@ -431,16 +431,14 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-i-succesfully-defended-my-thesis-distributed-cryptography-as-a-service",
+          title: 'I succesfully defended my thesis, Distributed Cryptography as a Service! 🎓',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-am-starting-a-postdoc-position-at-cmu-hosted-by-elaine-shi-my-position-is-generously-subpported-by-the-carnegie-bosch-postdoctoral-fellowship",
+          title: 'I am starting a postdoc position at CMU, hosted by Elaine Shi! My...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-very-excited-to-give-a-talk-on-yoso-randomness-generation-at-upenn-s-security-and-privacy-lab-seminar-thanks-for-the-invitation",
+          title: 'Very excited to give a talk on YOSO randomness generation at UPenn’s Security...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
