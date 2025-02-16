@@ -431,8 +431,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-i-have-succesfully-defended-my-thesis-distributed-cryptography-as-a-service",
-          title: 'I have succesfully defended my thesis, Distributed Cryptography as a Service! 🎓',
+    },{id: "news-i-succesfully-defended-my-thesis-distributed-cryptography-as-a-service",
+          title: 'I succesfully defended my thesis, Distributed Cryptography as a Service! 🎓',
           description: "",
           section: "News",},{id: "news-i-am-starting-a-postdoc-position-at-cmu-hosted-by-elaine-shi-my-position-is-generously-subpported-by-the-carnegie-bosch-postdoctoral-fellowship",
           title: 'I am starting a postdoc position at CMU, hosted by Elaine Shi! My...',
@@ -486,13 +486,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-dblp',
-        title: 'DBLP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://dblp.org/pid/153/0946.html", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -505,6 +498,20 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/lisa-masserova-1b2267180", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0002-8970-9624", "_blank");
+        },
+      },{
+        id: 'social-rss',
+        title: 'RSS Feed',
+        section: 'Socials',
+        handler: () => {
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
