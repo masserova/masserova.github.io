@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-10-07 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Very excited to give a talk on YOSO randomness generation at [UPenn's Security and Privacy Lab](https://splab.cis.upenn.edu/seminars.html) seminar. Thanks for the invitation! 
