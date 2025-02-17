@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: &#x2764 <strong> Applied Cryptography </strong> #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: #&#x2764 <strong> Applied Cryptography </strong> #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
