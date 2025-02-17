@@ -23,28 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
-        },{id: "dropdown-publications",
-              title: "publications",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "news-i-succesfully-defended-my-thesis-distributed-cryptography-as-a-service",
+        },{id: "news-i-succesfully-defended-my-thesis-distributed-cryptography-as-a-service",
           title: 'I succesfully defended my thesis, Distributed Cryptography as a Service! 🎓',
           description: "",
           section: "News",},{id: "news-i-am-starting-a-postdoc-position-at-cmu-hosted-by-elaine-shi-my-position-is-generously-subpported-by-the-carnegie-bosch-postdoctoral-fellowship",
