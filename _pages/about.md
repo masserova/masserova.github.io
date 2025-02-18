@@ -30,7 +30,7 @@ announcements:
 
 I am a Carnegie Bosch postdoctoral fellow at [Carnegie Mellon University](https://www.cmu.edu/) hosted by Elaine Shi. 
 Previously, I completed my PhD at Carnegie Mellon under the advisement of Bryan Parno and Vipul Goyal.
-I am broadly interested in applied cryptography, MPC, blockchains, the intersection of crypto x AI, and I enjoy working on problems that help society. 
+I am broadly interested in <strong>applied cryptography</strong>, <strong>MPC</strong>, <strong>blockchains</strong>, the intersection of <strong>crypto x AI</strong>, and I enjoy working on problems that help society. 
 
 Before joining CMU, I received my Bachelor degrees in CS and Mathematics, as well as a Master's degree in CS from [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php).
 
