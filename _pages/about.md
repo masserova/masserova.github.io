@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: #&#x2764 <strong> Applied Cryptography </strong> #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: &#x2764; Applied Cryptography #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -34,3 +34,4 @@ I am broadly interested in applied cryptography, MPC, blockchains, the intersect
 
 Before joining CMU, I received my Bachelor degrees in CS and Mathematics, as well as a Master's degree in CS from [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php).
 
+ 
