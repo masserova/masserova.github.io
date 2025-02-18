@@ -26,7 +26,7 @@ ninja.data = [{
         },{id: "news-i-succesfully-defended-my-thesis-distributed-cryptography-as-a-service",
           title: 'I succesfully defended my thesis, Distributed Cryptography as a Service! 🎓',
           description: "",
-          section: "News",},{id: "news-i-am-starting-a-postdoc-position-at-cmu-hosted-by-elaine-shi-my-position-is-generously-subpported-by-the-carnegie-bosch-postdoctoral-fellowship",
+          section: "News",},{id: "news-i-am-starting-a-postdoc-position-at-cmu-hosted-by-elaine-shi-my-position-is-generously-supported-by-the-carnegie-bosch-postdoctoral-fellowship",
           title: 'I am starting a postdoc position at CMU, hosted by Elaine Shi! My...',
           description: "",
           section: "News",},{id: "news-very-excited-to-give-a-talk-on-yoso-randomness-generation-at-upenn-s-security-and-privacy-lab-seminar-thanks-for-the-invitation",
