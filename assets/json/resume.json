@@ -27,8 +27,7 @@
       "url": "https://www.cmu.edu/",
       "startDate": "2024-09",
       "endDate": "PRESENT",
-      "summary": "Applied cryptography research.",
-      "highlights": ["Relativity"]
+      "summary": "Applied cryptography research."
     },
     {
       "name": "J.P. Morgan AI Research, JPMorganChase",
@@ -37,8 +36,7 @@
       "url": "https://www.jpmorgan.com/technology/artificial-intelligence",
       "startDate": "2024-06",
       "endDate": "2024-08",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "summary": "Worked on privacy-preserving machine learning."
     },
     {
       "name": "J.P. Morgan AI Research, JPMorganChase",
@@ -47,32 +45,85 @@
       "url": "https://www.jpmorgan.com/technology/artificial-intelligence",
       "startDate": "2023-06",
       "endDate": "2023-08",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "summary": "Research on MPC for large-scale distributed systems."
     }
   ],
   "volunteer": [
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Carnegie Mellon University",
+      "location": "Pittsburgh, Pennsylvania",
+      "url": "https://www.cmu.edu/",
+      "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2018-08",
+      "endDate": "2024-09"
+    },
+    {
+      "institution": "Carnegie Mellon University",
+      "location": "Pittsburgh, Pennsylvania",
+      "url": "https://www.cmu.edu/",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2018-08",
+      "endDate": "2022-12"
+    },
+    {
+      "institution": "Karlsruhe Institute of Technology",
+      "location": "Karlsruhe, Germany",
+      "url": "https://www.kit.edu/english/index.php",
+      "area": "Informatics",
+      "studyType": "Master of Science",
+      "startDate": "2018-08",
+      "endDate": "2022-12"
+    },
+    {
+      "institution": "Karlsruhe Institute of Technology",
+      "location": "Karlsruhe, Germany",
+      "url": "https://www.kit.edu/english/index.php",
+      "area": "Mathematics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2018-08",
+      "endDate": "2022-12"
+    },
+    {
+      "institution": "Karlsruhe Institute of Technology",
+      "location": "Karlsruhe, Germany",
+      "url": "https://www.kit.edu/english/index.php",
+      "area": "Informatics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2018-08",
+      "endDate": "2022-12"
     }
   ],
-  "awards": [
+  "grants, honors, and awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Carnegie Bosch Fellowship",
+      "date": "2024",
+      "awarder": "Carnegie Bosch Institute",
+      "url": "https://carnegiebosch.cmu.edu/fellowships/index.html",
+      "summary": "Two-year award supporting outstanding postdoctoral researchers conducting high-potential research within the excellence-driven environment of CMU."
+    },
+    {
+      "title": "InterAct scholarship",
+      "date": "2015",
+      "awarder": "Baden-Württemberg-Stiftung",
+      "url": "https://www.interact.kit.edu/90.php",
+      "summary": "Award for conducting bachelor thesis research in the USA."
+    },
+    {
+      "title": "HackZurich",
+      "date": "2014",
+      "url": "https://hackzurich.com/",
+      "summary": "1st place at Europe’s largest hackathon."
+    },
+    {
+      "title": "Microsoft Imagine Cup, Germany",
+      "date": "2014",
+      "awarder": "Microsoft",
+      "url": "https://imaginecup.microsoft.com/de-de",
+      "summary": "1st Place at the Microsoft Imagine Cup national Final in the Innovation category."
     }
   ],
   "certificates": [
@@ -101,19 +152,7 @@
     }
   ],
   "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
+    
   ],
   "languages": [
     {
@@ -152,7 +191,7 @@
       "name": "AI",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Privacy-preserving machine learning",
+        "Privacy-Preserving Machine Learning",
         "Fairness in AI"
       ]
     }
