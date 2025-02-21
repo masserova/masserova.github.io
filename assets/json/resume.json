@@ -75,8 +75,8 @@
       "url": "https://www.kit.edu/english/index.php",
       "area": "Informatics",
       "studyType": "Master of Science",
-      "startDate": "2018-08",
-      "endDate": "2022-12"
+      "startDate": "2016-05",
+      "endDate": "2019-03"
     },
     {
       "institution": "Karlsruhe Institute of Technology",
@@ -84,8 +84,8 @@
       "url": "https://www.kit.edu/english/index.php",
       "area": "Mathematics",
       "studyType": "Bachelor of Science",
-      "startDate": "2018-08",
-      "endDate": "2022-12"
+      "startDate": "2013-10",
+      "endDate": "2018-08"
     },
     {
       "institution": "Karlsruhe Institute of Technology",
@@ -93,8 +93,8 @@
       "url": "https://www.kit.edu/english/index.php",
       "area": "Informatics",
       "studyType": "Bachelor of Science",
-      "startDate": "2018-08",
-      "endDate": "2022-12"
+      "startDate": "2011-10",
+      "endDate": "2016-05"
     }
   ],
   "grants, honors, and awards": [
@@ -119,11 +119,11 @@
       "summary": "1st place at Europe’s largest hackathon."
     },
     {
-      "title": "Microsoft Imagine Cup, Germany",
+      "title": "Microsoft Imagine Cup",
       "date": "2014",
-      "awarder": "Microsoft",
+      "awarder": "Microsoft Germany",
       "url": "https://imaginecup.microsoft.com/de-de",
-      "summary": "1st Place at the Microsoft Imagine Cup national Final in the Innovation category."
+      "summary": "1st Place at the Microsoft Imagine Cup national final in the Innovation category."
     }
   ],
   "certificates": [
