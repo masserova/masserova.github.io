@@ -124,6 +124,48 @@
   "certificates": [
   ],
   "publications": [
+    {
+      "name": "Efficient Distributed Randomness Generation from Minimal Assumptions where PArties Speak Sequentially Once",
+      "authors": "Chen-Da Liu-Zhang, Elisaweta Masserova and Ribeiro, Joao and Soni, Pratik and Thyagarajan, Sri AravindaKrishnan",
+      "publisher": "EUROCRYPT",
+      "releaseDate": "2025",
+      "url": "https://eprint.iacr.org/2025/349"
+    },
+    {
+      "name": "Rapidash: Foundations of side-contract-resilient fair exchange",
+      "authors": "Chung, Hao and Masserova, Elisaweta and Shi, Elaine and Thyagarajan, Sri AravindaKrishnan",
+      "publisher": "FC",
+      "releaseDate": "2025",
+      "url": "https://eprint.iacr.org/2022/1063"
+    },
+    {
+      "name": "Improved YOSO randomness generation with worst-case corruptions",
+      "authors": "Chen-Da Liu-Zhang and Elisaweta Masserova and Ribeiro, Joao and Soni, Pratik and Thyagarajan, Sri AravindaKrishnan",
+      "publisher": "FC",
+      "releaseDate": "2024",
+      "url": "https://eprint.iacr.org/2024/1268"
+    },
+    {
+      "name": "Efficient Distributed Randomness Generation from Minimal Assumptions where PArties Speak Sequentially Once",
+      "authors": "Vipul Goyal and Abhiram Kothapalli and Elisaweta Masserova and Bryan Parno and Yifan Song",
+      "publisher": "PKC",
+      "releaseDate": "2022",
+      "url": "https://eprint.iacr.org/2020/504"
+    },
+    {
+      "name": "Blockchains Enable Non-interactive MPC",
+      "authors": "Vipul Goyal and Elisaweta Masserova and Bryan Parno and Yifan Song",
+      "publisher": "TCC",
+      "releaseDate": "2021",
+      "url": "https://eprint.iacr.org/2021/1233"
+    },
+    {
+      "name": "Talek: Private Group Messaging with Hidden Access Patterns",
+      "authors": "Raymond Cheng and William Scott and Elisaweta Masserova and Irene Zhang and Vipul Goyal and Thomas E. Anderson and Arvind Krishnamurthy and Bryan Parno",
+      "publisher": "ACSAC",
+      "releaseDate": "2020",
+      "url": "https://arxiv.org/abs/2001.08250"
+    }
   ],
   "skills": [
     
