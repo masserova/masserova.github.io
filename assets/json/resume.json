@@ -125,25 +125,46 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Efficient Distributed Randomness Generation from Minimal Assumptions where PArties Speak Sequentially Once",
+      "authors": "Chen-Da Liu-Zhang, Elisaweta Masserova and Ribeiro, Joao and Soni, Pratik and Thyagarajan, Sri AravindaKrishnan",
+      "publisher": "EUROCRYPT",
+      "releaseDate": "2025",
+      "url": "https://eprint.iacr.org/2025/349"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Rapidash: Foundations of side-contract-resilient fair exchange",
+      "authors": "Chung, Hao and Masserova, Elisaweta and Shi, Elaine and Thyagarajan, Sri AravindaKrishnan",
+      "publisher": "FC",
+      "releaseDate": "2025",
+      "url": "https://eprint.iacr.org/2022/1063"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Improved YOSO randomness generation with worst-case corruptions",
+      "authors": "Chen-Da Liu-Zhang and Elisaweta Masserova and Ribeiro, Joao and Soni, Pratik and Thyagarajan, Sri AravindaKrishnan",
+      "publisher": "FC",
+      "releaseDate": "2024",
+      "url": "https://eprint.iacr.org/2024/1268"
+    },
+    {
+      "name": "Efficient Distributed Randomness Generation from Minimal Assumptions where PArties Speak Sequentially Once",
+      "authors": "Vipul Goyal and Abhiram Kothapalli and Elisaweta Masserova and Bryan Parno and Yifan Song",
+      "publisher": "PKC",
+      "releaseDate": "2022",
+      "url": "https://eprint.iacr.org/2020/504"
+    },
+    {
+      "name": "Blockchains Enable Non-interactive MPC",
+      "authors": "Vipul Goyal and Elisaweta Masserova and Bryan Parno and Yifan Song",
+      "publisher": "TCC",
+      "releaseDate": "2021",
+      "url": "https://eprint.iacr.org/2021/1233"
+    },
+    {
+      "name": "Talek: Private Group Messaging with Hidden Access Patterns",
+      "authors": "Raymond Cheng and William Scott and Elisaweta Masserova and Irene Zhang and Vipul Goyal and Thomas E. Anderson and Arvind Krishnamurthy and Bryan Parno",
+      "publisher": "ACSAC",
+      "releaseDate": "2020",
+      "url": "https://arxiv.org/abs/2001.08250"
     }
   ],
   "skills": [
