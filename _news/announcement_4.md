@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-10-07 
+date: 2024-11-08 
 inline: true
 related_posts: false
 ---
 
-Very excited to give a talk on YOSO randomness generation at [UPenn's Security and Privacy Lab](https://splab.cis.upenn.edu/seminars.html) seminar. Thanks for the invitation! 
+Our paper on ZK proofs for fair machine learning was accepted at [RegML @NeurIPS2024](https://regulatableml.github.io/) and was additionally selected for a contributed talk. Thanks to my amazing co-authors!
