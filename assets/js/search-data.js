@@ -44,8 +44,8 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-share-that-efficient-distributed-randomness-generation-from-minimal-assumptions-where-parties-speak-sequentially-once-was-accepted-at-eurocrypt-2025-thanks-to-my-great-co-authors",
           title: 'Excited to share that Efficient Distributed Randomness Generation from Minimal Assumptions where PArties...',
           description: "",
-          section: "News",},{id: "news-our-papertowards-scalable-yoso-mpc-via-packed-secret-sharing-will-be-announced-at-podc-2025-thanks-to-my-amazing-co-authors",
-          title: 'Our paperTowards Scalable YOSO MPC via Packed Secret-Sharing will be announced at PODC...',
+          section: "News",},{id: "news-our-paper-towards-scalable-yoso-mpc-via-packed-secret-sharing-will-be-announced-at-podc-2025-thanks-to-my-amazing-co-authors",
+          title: 'Our paper Towards Scalable YOSO MPC via Packed Secret-Sharing will be announced at...',
           description: "",
           section: "News",},{
         id: 'social-email',
