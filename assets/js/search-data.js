@@ -56,6 +56,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-data-forging-attacks-on-cryptographic-model-certification-was-accepted-at-regml-at-neurips-2025-thanks-to-my-amazing-co-authors-an-updated-and-expanded-version-coming-soon",
           title: 'Our paper “Data Forging Attacks on Cryptographic Model Certification” was accepted at RegML...',
           description: "",
+          section: "News",},{id: "news-our-paper-game-theory-does-not-always-help-the-case-of-statistical-multi-party-coin-tossing-has-been-accepted-at-eurocrypt-thanks-to-my-co-athors-chen-da-joão-and-aravind-an-eprint-is-coming-soon",
+          title: 'Our paper “Game Theory Does Not Always Help: The Case of Statistical Multi-Party...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
