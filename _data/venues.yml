@@ -1,8 +1,10 @@
 "poster":
   color: "#00369f"
+  url: "#009f36"
 
 "manuscript":
   url: "#009f36"
 
 "conference":
   color: "#03C04A"
+  url: "#009f36"
