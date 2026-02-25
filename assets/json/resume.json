@@ -167,11 +167,20 @@
   "publications": [
   ],
   "skills": [
-    { "programming languages": "Python, TypeScript, Solidity, C#, C++, PHP",
-    "ML": "Scikit-learn, PyTorch",
-"Cryptography": "MPC frameworks, zkSNARKS, implementation using arkworks",
-"Web": "React, Next.js, Node.js",
-"Systems & Tools": "Linux, Git"
+    { "name": "programming languages",
+    "keywords": "Python, TypeScript, Solidity, C#, C++, PHP"
+    },
+    { "name": "ML",
+    "keywords": "Scikit-learn, PyTorch"
+    },
+    { "name": "Cryptography",
+    "keywords": "MPC frameworks, zkSNARKS, implementation using arkworks"
+    },
+    { "name": "Web",
+      "keywords": "React, Next.js, Node.js"
+    },
+    { "name": "Systems & Tools",
+      "keywords": "Linux, Git"
     }
   ],
   "languages": [
