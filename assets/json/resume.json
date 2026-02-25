@@ -22,7 +22,7 @@
       "url": "https://www.cmu.edu/",
       "startDate": "2024-09",
       "endDate": "PRESENT",
-      "summary": "Applied cryptography research. Projects topics include privacy-preserving machine learning, MPC, and distributed randomness generation."
+      "summary": "Applied cryptography research, including privacy-preserving machine learning, MPC, and distributed randomness generation."
     },
     {
       "name": "J.P. Morgan AI Research, JPMorganChase",
@@ -31,7 +31,7 @@
       "url": "https://www.jpmorgan.com/technology/artificial-intelligence",
       "startDate": "2024-06",
       "endDate": "2024-08",
-      "summary": "Research on privacy-preserving machine learning. The project involved designing a zero-knowledge-based system for auditing fairness of machine learning models. The corresponding paper is under submission."
+      "summary": "Developed zero-knowledge proof systems for verifiable fairness of machine learning models, including design and implementation of cryptographic protocols."
     },
     {
       "name": "J.P. Morgan AI Research, JPMorganChase",
@@ -40,7 +40,7 @@
       "url": "https://www.jpmorgan.com/technology/artificial-intelligence",
       "startDate": "2023-06",
       "endDate": "2023-08",
-      "summary": "Research on MPC for large-scale distributed systems. The project involved designing a scalable MPC scheme in the offline-online YOSO communication model, and resulted in two publications."
+      "summary": "Designed secure multi-party computation protocol for large-scale distributed systems based on packed secret-sharing."
     },
     {
       "name": "bluehands GmbH & Co.mmunication KG",
@@ -49,7 +49,7 @@
       "url": "https://www.bluehands.de",
       "startDate": "2013-09",
       "endDate": "2014-08",
-      "summary": "Software development of an augmented reality city guide app."
+      "summary": "Developed software components for an augmented reality mobile application."
     },
     {
       "name": "Self-employed",
@@ -57,7 +57,7 @@
       "position": "Freelancing in Software- and Web-Development",
       "startDate": "2014-09",
       "endDate": "2018-08",
-      "summary": "Designed custom software and full-stack web applications for startups, non-profits, and public sector clients. Built full-stack solutions such as administative dashboards enabling startup leadership to efficiently manage users, workflows, and operational processes."
+      "summary": "Developed and deployed custom full-stack web applications and dashboards for startups, non-profits, and public sector clients, supporting user management and operational workflows."
     },
     {
       "name": "Institute of Theoretical Informatics, Karlsruhe Institute of Technology",
@@ -66,7 +66,7 @@
       "url": "https://www.iti.kit.edu/en/start",
       "startDate": "2014-09",
       "endDate": "2018-08",
-      "summary": "Research and outreach. Implemented educational tools, including visualizations of zero-knowledge proofs, contributed to research on CCA-secure commitments, created various presentation and lecture materials. "
+      "summary": "Implemented educational tools such as visualizations of zero-knowledge principles, contributed to research related to CCA-secure commitments, private set intersection, Intel SGX."
     },
     {
       "name": "FZI Research Center for Information Technology",
@@ -75,7 +75,7 @@
       "url": "https://www.fzi.de/en/",
       "startDate": "2013-04",
       "endDate": "2013-12",
-      "summary": "Contributed to the development of a gamified mobile applciation for stroke rehabilitation, including motion-based therapy games using device sensors to train motor control and coordination."
+      "summary": "Developed a motion sensor-based mobile rehabilitation app for stroke patients."
     }
   ],
   "volunteer": [
@@ -167,7 +167,12 @@
   "publications": [
   ],
   "skills": [
-    
+    { "programming languages": "Python, TypeScript, Solidity, C#, C++, PHP",
+    "ML": "Scikit-learn, PyTorch",
+"Cryptography": "MPC frameworks, zkSNARKS, implementation using arkworks",
+"Web": "React, Next.js, Node.js",
+"Systems & Tools": "Linux, Git"
+    }
   ],
   "languages": [
     {
