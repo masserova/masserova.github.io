@@ -22,7 +22,7 @@
       "url": "https://www.cmu.edu/",
       "startDate": "2024-09",
       "endDate": "PRESENT",
-      "summary": "Applied cryptography research."
+      "summary": "Applied cryptography research. Projects topics include privacy-preserving machine learning, MPC, and distributed randomness generation."
     },
     {
       "name": "J.P. Morgan AI Research, JPMorganChase",
@@ -31,7 +31,7 @@
       "url": "https://www.jpmorgan.com/technology/artificial-intelligence",
       "startDate": "2024-06",
       "endDate": "2024-08",
-      "summary": "Worked on privacy-preserving machine learning."
+      "summary": "Research on privacy-preserving machine learning. The project involved designing a zero-knowledge-based system for auditing fairness of machine learning models. The corresponding paper is under submission."
     },
     {
       "name": "J.P. Morgan AI Research, JPMorganChase",
@@ -40,7 +40,42 @@
       "url": "https://www.jpmorgan.com/technology/artificial-intelligence",
       "startDate": "2023-06",
       "endDate": "2023-08",
-      "summary": "Research on MPC for large-scale distributed systems."
+      "summary": "Research on MPC for large-scale distributed systems. The project involved designing a scalable MPC scheme in the offline-online YOSO communication model, and resulted in two publications."
+    },
+    {
+      "name": "bluehands GmbH & Co.mmunication KG",
+      "location": "Karlsruhe, Germany",
+      "position": "Student Software Developer",
+      "url": "https://www.bluehands.de",
+      "startDate": "2013-09",
+      "endDate": "2014-08",
+      "summary": "Software development of an augmented reality city guide app."
+    },
+    {
+      "name": "Self-employed",
+      "location": "Karlsruhe, Germany",
+      "position": "Freelancing in Software- and Web-Development",
+      "startDate": "2014-09",
+      "endDate": "2018-08",
+      "summary": "Designed custom software and full-stack web applications for startups, non-profits, and public sector clients. Built full-stack solutions such as administative dashboards enabling startup leadership to efficiently manage users, workflows, and operational processes."
+    },
+    {
+      "name": "Institute of Theoretical Informatics, Karlsruhe Institute of Technology",
+      "location": "Karlsruhe, Germany",
+      "position": "Student Research Assistant",
+      "url": "https://www.iti.kit.edu/en/start",
+      "startDate": "2014-09",
+      "endDate": "2018-08",
+      "summary": "Research and outreach. Implemented educational tools, including visualizations of zero-knowledge proofs, contributed to research on CCA-secure commitments, created various presentation and lecture materials. "
+    },
+    {
+      "name": "FZI Research Center for Information Technology",
+      "location": "Karlsruhe, Germany",
+      "position": "Student Research Assistant",
+      "url": "https://www.fzi.de/en/",
+      "startDate": "2013-04",
+      "endDate": "2013-12",
+      "summary": "Contributed to the development of a gamified mobile applciation for stroke rehabilitation, including motion-based therapy games using device sensors to train motor control and coordination."
     }
   ],
   "volunteer": [
@@ -99,6 +134,12 @@
       "awarder": "Carnegie Bosch Institute",
       "url": "https://carnegiebosch.cmu.edu/fellowships/index.html",
       "summary": "Two-year award supporting outstanding postdoctoral researchers conducting high-potential research within the excellence-driven environment of CMU."
+    },
+    {
+      "title": "Cryptonet Academic Research Grant",
+      "date": "2022",
+      "awarder": "Protocol Labs",
+      "summary": "Research gift, 35,000 USD. Project: Stateless Distributed Randomness Generation."
     },
     {
       "title": "InterAct scholarship",
