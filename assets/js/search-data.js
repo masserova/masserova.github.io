@@ -62,7 +62,7 @@ ninja.data = [{
           section: "News",},{id: "news-feasibility-of-broadcast-with-dynamic-committees-was-accepted-at-crypto-2026-thanks-to-my-great-co-authors",
           title: '“Feasibility of Broadcast with Dynamic Committees” was accepted at CRYPTO 2026. Thanks to...',
           description: "",
-          section: "News",},{id: "news-our-work-audifair-privacy-preserving-framework-for-auditing-fairness-has-been-accepted-at-the-conference-on-uncertainty-in-artificial-intelligence-uai-thanks-to-my-co-athors-akira-antigoni-and-aravind-an-eprint-is-coming-soon",
+          section: "News",},{id: "news-our-work-audifair-privacy-preserving-framework-for-auditing-fairness-has-been-accepted-at-the-conference-on-uncertainty-in-artificial-intelligence-uai-thanks-to-my-co-athors-akira-antigoni-kshitij-and-ron-an-eprint-is-coming-soon",
           title: 'Our work “AudiFair: Privacy-Preserving Framework for Auditing Fairness” has been accepted at the...',
           description: "",
           section: "News",},{id: "news-certified-in-theory-broken-in-practice-assumption-gaps-in-cryptographic-model-certification-has-been-recently-accepted-at-usenix-security-thanks-to-my-amazing-co-athors-olive-carter-akira-antigoni-and-nicolas-you-can-find-our-paper-on-arxiv-and-on-eprint",
