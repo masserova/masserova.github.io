@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2026-02-01 
+date: 2026-07-23 
 inline: true
 related_posts: false
 ---
 
-Our paper "Game Theory Does Not Always Help: The Case of Statistical Multi-Party Coin Tossing" has been accepted at [Eurocrypt](https://eurocrypt.iacr.org/2026/)! Thanks
-to my co-athors [Chen-Da](https://sites.google.com/view/chendaliu), [João](https://sites.google.com/site/joaorib94/), and [Aravind](https://sites.google.com/view/sak-thyagarajan). An eprint is coming soon. 
+Our work "AudiFair: Privacy-Preserving Framework for Auditing Fairness" has been accepted at the Conference on Uncertainty in Artificial Intelligence [(UAI)](https://www.auai.org/uai2026/)! Thanks
+to my co-athors [Akira](https://akiratk0355.github.io), [Antigoni](https://antigonip.github.io), and [Aravind](https://sites.google.com/view/sak-thyagarajan). An eprint is coming soon. 
